@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<result>
+    <info>
+        <s>minchin section:lords</s>
+        <results_per_page>20</results_per_page>
+        <page>1</page>
+        <total_results>743</total_results>
+        <first_result>1</first_result>
+    </info>
+    <searchdescription>containing the word 'minchin' in Senate debates</searchdescription>
+    <rows>
+        <match>
+            <gid>2009-11-30.236.5</gid>
+            <hdate>2009-11-30</hdate>
+            <htype>12</htype>
+            <major>101</major>
+            <section_id>233851</section_id>
+            <subsection_id>233852</subsection_id>
+            <relevance>68</relevance>
+            <speaker_id>100241</speaker_id>
+            <hpos>435</hpos>
+            <body>I will take that interjection. I think most Australians would ask that question. Most Australians would believe, from watching Senator &lt;span class=&quot;hi&quot;&gt;Minchin&lt;/span&gt;&amp;#8217;s behaviour and that of others, that you are not going to be for changing. No amount of fact, detail or evidence is going to change your minds. You do not believe that this is something that this nation needs to do, notwithstanding the fact that...</body>
+            <listurl>/senate/?id=2009-11-30.31.2&amp;amp;s=minchin+section%3Alords#g236.5</listurl>
+            <speaker>
+                <member_id>100241</member_id>
+                <title></title>
+                <first_name>Penny</first_name>
+                <last_name>Wong</last_name>
+                <house>2</house>
+                <constituency>SA</constituency>
+                <party>Australian Labor Party</party>
+                <person_id>10678</person_id>
+                <url>/senator/?m=100241</url>
+                <office>
+                    <match>
+                        <dept></dept>
+                        <position>Minister for Climate Change and Water</position>
+                        <pretty>Minister for Climate Change and Water</pretty>
+                    </match>
+                </office>
+            </speaker>
+            <parent>
+                <body>Carbon Pollution Reduction Scheme Bill 2009 [No. 2]; Carbon Pollution Reduction Scheme (Consequential Amendments) Bill 2009 [No. 2]; Australian Climate Change Regulatory Authority Bill 2009 [No. 2]; Carbon Pollution Reduction Scheme (Charges &amp;#8212; Customs) Bill 2009 [No. 2]; Carbon Pollution Reduction Scheme (Charges &amp;#8212; Excise) Bill 2009 [No. 2]; Carbon Pollution Reduction Scheme (Charges &amp;#8212; General) Bill 2009 [No. 2]; Carbon Pollution Reduction Scheme (CPRS Fuel Credits) Bill 2009 [No. 2]; Carbon Pollution Reduction Scheme (CPRS Fuel Credits) (Consequential Amendments) Bill 2009 [No. 2]; Excise Tariff Amendment (Carbon Pollution Reduction Scheme) Bill 2009 [No. 2]; Customs Tariff Amendment (Carbon Pollution Reduction Scheme) Bill 2009 [No. 2]; Carbon Pollution Reduction Scheme Amendment (Household Assistance) Bill 2009 [No. 2]: In Committee</body>
+            </parent>
+        </match>
+        <match>
+            <gid>2009-11-30.585.3</gid>
+            <hdate>2009-11-30</hdate>
+            <htype>12</htype>
+            <major>101</major>
+            <section_id>234885</section_id>
+            <subsection_id>234886</subsection_id>
+            <relevance>53</relevance>
+            <speaker_id>100074</speaker_id>
+            <hpos>1170</hpos>
+            <body>...Ludwig and O&amp;#8217;Brien, who have been responsible for the very difficult job of getting the government&amp;#8217;s legislation through and managing this chamber in a minority position. To Senator &lt;span class=&quot;hi&quot;&gt;Minchin&lt;/span&gt;, the minor parties and the independents, I wish them all an enjoyable break. I hope they get time to spend with their families. I thank you, Mr President.</body>
+            <listurl>/senate/?id=2009-11-30.585.2&amp;amp;s=minchin+section%3Alords#g585.3</listurl>
+            <speaker>
+                <member_id>100074</member_id>
+                <title></title>
+                <first_name>Chris</first_name>
+                <last_name>Evans</last_name>
+                <house>2</house>
+                <constituency>WA</constituency>
+                <party>Australian Labor Party</party>
+                <person_id>10204</person_id>
+                <url>/senator/?m=100074</url>
+                <office>
+                    <match>
+                        <dept></dept>
+                        <position>Leader of the Government in the Senate</position>
+                        <pretty>Leader of the Government in the Senate</pretty>
+                    </match>
+                    <match>
+                        <dept></dept>
+                        <position>Minister for Immigration and Citizenship</position>
+                        <pretty>Minister for Immigration and Citizenship</pretty>
+                    </match>
+                </office>
+            </speaker>
+            <parent>
+                <body>Valedictory: </body>
+            </parent>
+        </match>
+        <match>
+            <gid>2009-11-30.15.8</gid>
+            <hdate>2009-11-30</hdate>
+            <htype>12</htype>
+            <major>101</major>
+            <section_id>233718</section_id>
+            <subsection_id>233719</subsection_id>
+            <relevance>68</relevance>
+            <speaker_id>100241</speaker_id>
+            <hpos>65</hpos>
+            <body>but everybody knows you started out months ago, along with your boss, Senator &lt;span class=&quot;hi&quot;&gt;Minchin&lt;/span&gt;, trying to tear this down. Everybody knows that.</body>
+            <listurl>/senate/?id=2009-11-30.3.2&amp;amp;s=minchin+section%3Alords#g15.8</listurl>
+            <speaker>
+                <member_id>100241</member_id>
+                <title></title>
+                <first_name>Penny</first_name>
+                <last_name>Wong</last_name>
+                <house>2</house>
+                <constituency>SA</constituency>
+                <party>Australian Labor Party</party>
+                <person_id>10678</person_id>
+                <url>/senator/?m=100241</url>
+                <office>
+                    <match>
+                        <dept></dept>
+                        <position>Minister for Climate Change and Water</position>
+                        <pretty>Minister for Climate Change and Water</pretty>
+                    </match>
+                </office>
+            </speaker>
+            <parent>
+                <body>Business: Rearrangement</body>
+            </parent>
+        </match>
+        <match>
+            <gid>2009-11-30.549.1</gid>
+            <hdate>2009-11-30</hdate>
+            <htype>12</htype>
+            <major>101</major>
+            <section_id>234335</section_id>
+            <subsection_id>234792</subsection_id>
+            <relevance>27</relevance>
+            <speaker_id>100027</speaker_id>
+            <hpos>1093</hpos>
+            <body>...that when it comes to the Abbott coalition taking up this final debate on this all-important matter, more important than any other before this parliament this year, it was not Senator Nick &lt;span class=&quot;hi&quot;&gt;Minchin&lt;/span&gt;, Leader of the Opposition in the Senate, who got up to speak? It was not Senator Abetz, Senator Parry, Senator Brandis or any Liberal on the front bench. They put it across to the tub-thumping...</body>
+            <listurl>/senate/?id=2009-11-30.547.1&amp;amp;s=minchin+section%3Alords#g549.1</listurl>
+            <speaker>
+                <member_id>100027</member_id>
+                <title></title>
+                <first_name>Bob</first_name>
+                <last_name>Brown</last_name>
+                <house>2</house>
+                <constituency>Tasmania</constituency>
+                <party>Australian Greens</party>
+                <person_id>10696</person_id>
+                <url>/senator/?m=100027</url>
+            </speaker>
+            <parent>
+                <body>Carbon Pollution Reduction Scheme Bill 2009 [No. 2]; Carbon Pollution Reduction Scheme (Consequential Amendments) Bill 2009 [No. 2]; Australian Climate Change Regulatory Authority Bill 2009 [No. 2]; Carbon Pollution Reduction Scheme (Charges &amp;#8212; Customs) Bill 2009 [No. 2]; Carbon Pollution Reduction Scheme (Charges &amp;#8212; Excise) Bill 2009 [No. 2]; Carbon Pollution Reduction Scheme (Charges &amp;#8212; General) Bill 2009 [No. 2]; Carbon Pollution Reduction Scheme (CPRS Fuel Credits) Bill 2009 [No. 2]; Carbon Pollution Reduction Scheme (CPRS Fuel Credits) (Consequential Amendments) Bill 2009 [No. 2]; Excise Tariff Amendment (Carbon Pollution Reduction Scheme) Bill 2009 [No. 2]; Customs Tariff Amendment (Carbon Pollution Reduction Scheme) Bill 2009 [No. 2]; Carbon Pollution Reduction Scheme Amendment (Household Assistance) Bill 2009 [No. 2]: Third Reading</body>
+            </parent>
+        </match>
+        <match>
+            <gid>2009-11-26.287.8</gid>
+            <hdate>2009-11-26</hdate>
+            <htype>12</htype>
+            <major>101</major>
+            <section_id>233427</section_id>
+            <subsection_id>233428</subsection_id>
+            <relevance>68</relevance>
+            <speaker_id>100241</speaker_id>
+            <hpos>763</hpos>
+            <body>...is relevance. We are now having a discussion on an amendment which I think has been before the chair for at least a couple of hours and Senator McGauran is talking about booth results. I see Senator &lt;span class=&quot;hi&quot;&gt;Minchin&lt;/span&gt;, the former Leader Of the Opposition in the Senate, coming over to talk to Senator McGauran. For the leadership of the Liberal Party in this place to have allowed this sort of behaviour...</body>
+            <listurl>/senate/?id=2009-11-26.195.2&amp;amp;s=minchin+section%3Alords#g287.8</listurl>
+            <speaker>
+                <member_id>100241</member_id>
+                <title></title>
+                <first_name>Penny</first_name>
+                <last_name>Wong</last_name>
+                <house>2</house>
+                <constituency>SA</constituency>
+                <party>Australian Labor Party</party>
+                <person_id>10678</person_id>
+                <url>/senator/?m=100241</url>
+                <office>
+                    <match>
+                        <dept></dept>
+                        <position>Minister for Climate Change and Water</position>
+                        <pretty>Minister for Climate Change and Water</pretty>
+                    </match>
+                </office>
+            </speaker>
+            <parent>
+                <body>Carbon Pollution Reduction Scheme Bill 2009 [No. 2]; Carbon Pollution Reduction Scheme (Consequential Amendments) Bill 2009 [No. 2]; Australian Climate Change Regulatory Authority Bill 2009 [No. 2]; Carbon Pollution Reduction Scheme (Charges &amp;#8212; Customs) Bill 2009 [No. 2]; Carbon Pollution Reduction Scheme (Charges &amp;#8212; Excise) Bill 2009 [No. 2]; Carbon Pollution Reduction Scheme (Charges &amp;#8212; General) Bill 2009 [No. 2]; Carbon Pollution Reduction Scheme (CPRS Fuel Credits) Bill 2009 [No. 2]; Carbon Pollution Reduction Scheme (CPRS Fuel Credits) (Consequential Amendments) Bill 2009 [No. 2]; Excise Tariff Amendment (Carbon Pollution Reduction Scheme) Bill 2009 [No. 2]; Customs Tariff Amendment (Carbon Pollution Reduction Scheme) Bill 2009 [No. 2]; Carbon Pollution Reduction Scheme Amendment (Household Assistance) Bill 2009 [No. 2]: In Committee</body>
+            </parent>
+        </match>
+        <match>
+            <gid>2009-11-26.143.1</gid>
+            <hdate>2009-11-26</hdate>
+            <htype>12</htype>
+            <major>101</major>
+            <section_id>233197</section_id>
+            <subsection_id>233198</subsection_id>
+            <relevance>65</relevance>
+            <speaker_id>100027</speaker_id>
+            <hpos>292</hpos>
+            <body>by leave&amp;#8212;I concur with Senator Faulkner and Senator &lt;span class=&quot;hi&quot;&gt;Minchin&lt;/span&gt; and join with fellow senators in expressing horror at what happened in Mumbai and the greatest empathy and sympathy for those who suffered. I also note that one of the circumstances of that terrible event was the illiterate vulnerability of some of the people who were manipulated into taking part in that act of terrorism. One...</body>
+            <listurl>/senate/?id=2009-11-26.141.2&amp;amp;s=minchin+section%3Alords#g143.1</listurl>
+            <speaker>
+                <member_id>100027</member_id>
+                <title></title>
+                <first_name>Bob</first_name>
+                <last_name>Brown</last_name>
+                <house>2</house>
+                <constituency>Tasmania</constituency>
+                <party>Australian Greens</party>
+                <person_id>10696</person_id>
+                <url>/senator/?m=100027</url>
+            </speaker>
+            <parent>
+                <body>Ministerial Statements: Mumbai Terrorist Attacks</body>
+            </parent>
+        </match>
+        <match>
+            <gid>2009-11-25.18.1</gid>
+            <hdate>2009-11-25</hdate>
+            <htype>12</htype>
+            <major>101</major>
+            <section_id>231802</section_id>
+            <subsection_id>231803</subsection_id>
+            <relevance>25</relevance>
+            <speaker_id>100241</speaker_id>
+            <hpos>53</hpos>
+            <body>...the discussions in this debate thus far has been of a conspiracy theory&amp;#8212;that somehow climate change is a conspiracy invented by the Left or others, rather than recognising the science. Senator &lt;span class=&quot;hi&quot;&gt;Minchin&lt;/span&gt;&amp;#8217;s comments on Four Corners I think were very clear in his views about how this was some sort of conspiracy. We have also seen a discussion about some suggestion, again in the...</body>
+            <listurl>/senate/?id=2009-11-25.14.2&amp;amp;s=minchin+section%3Alords#g18.1</listurl>
+            <speaker>
+                <member_id>100241</member_id>
+                <title></title>
+                <first_name>Penny</first_name>
+                <last_name>Wong</last_name>
+                <house>2</house>
+                <constituency>SA</constituency>
+                <party>Australian Labor Party</party>
+                <person_id>10678</person_id>
+                <url>/senator/?m=100241</url>
+                <office>
+                    <match>
+                        <dept></dept>
+                        <position>Minister for Climate Change and Water</position>
+                        <pretty>Minister for Climate Change and Water</pretty>
+                    </match>
+                </office>
+            </speaker>
+            <parent>
+                <body>Carbon Pollution Reduction Scheme Bill 2009 [No. 2]; Carbon Pollution Reduction Scheme (Consequential Amendments) Bill 2009 [No. 2]; Australian Climate Change Regulatory Authority Bill 2009 [No. 2]; Carbon Pollution Reduction Scheme (Charges &amp;#8212; Customs) Bill 2009 [No. 2]; Carbon Pollution Reduction Scheme (Charges &amp;#8212; Excise) Bill 2009 [No. 2]; Carbon Pollution Reduction Scheme (Charges &amp;#8212; General) Bill 2009 [No. 2]; Carbon Pollution Reduction Scheme (CPRS Fuel Credits) Bill 2009 [No. 2]; Carbon Pollution Reduction Scheme (CPRS Fuel Credits) (Consequential Amendments) Bill 2009 [No. 2]; Excise Tariff Amendment (Carbon Pollution Reduction Scheme) Bill 2009 [No. 2]; Customs Tariff Amendment (Carbon Pollution Reduction Scheme) Bill 2009 [No. 2]; Carbon Pollution Reduction Scheme Amendment (Household Assistance) Bill 2009 [No. 2]: </body>
+            </parent>
+        </match>
+        <match>
+            <gid>2009-11-24.75.1</gid>
+            <hdate>2009-11-24</hdate>
+            <htype>12</htype>
+            <major>101</major>
+            <section_id>231179</section_id>
+            <subsection_id>231180</subsection_id>
+            <relevance>80</relevance>
+            <speaker_id>100140</speaker_id>
+            <hpos>280</hpos>
+            <body>.... These points are not for negotiation; they are what the opposition stands for. Minister, you are quite right: there is an issue about people missing out on the scholarships. But, as Senator &lt;span class=&quot;hi&quot;&gt;Minchin&lt;/span&gt; has alluded to and as the Deputy Prime Minister illustrated, the government was warned about the possibility, both by the opposition and indeed by the Greens, that this could happen. But the...</body>
+            <listurl>/senate/?id=2009-11-24.70.2&amp;amp;s=minchin+section%3Alords#g75.1</listurl>
+            <speaker>
+                <member_id>100140</member_id>
+                <title></title>
+                <first_name>Brett</first_name>
+                <last_name>Mason</last_name>
+                <house>2</house>
+                <constituency>Queensland</constituency>
+                <party>Liberal Party</party>
+                <person_id>10423</person_id>
+                <url>/senator/?m=100140</url>
+                <office>
+                    <match>
+                        <dept></dept>
+                        <position>Shadow Parliamentary Secretary for Education</position>
+                        <pretty>Shadow Parliamentary Secretary for Education</pretty>
+                    </match>
+                </office>
+            </speaker>
+            <parent>
+                <body>Social Security and Other Legislation Amendment (Income Support for Students) Bill 2009: Consideration of House of Representatives Message</body>
+            </parent>
+        </match>
+        <match>
+            <gid>2009-11-24.13.17</gid>
+            <hdate>2009-11-24</hdate>
+            <htype>12</htype>
+            <major>101</major>
+            <section_id>230919</section_id>
+            <subsection_id>230946</subsection_id>
+            <relevance>67</relevance>
+            <speaker_id>100074</speaker_id>
+            <hpos>51</hpos>
+            <body>..., all those journalists are agreed on one other matter&amp;#8212;that is, that the Liberal opposition are a complete rabble, that they are divided, that they are undermining their leader, that Senator &lt;span class=&quot;hi&quot;&gt;Minchin&lt;/span&gt; is in open revolt in defiance of his leader and that they are a standing joke in Australian politics. If Senator Back wants to rely on the combined opinions of certain journalists, I...</body>
+            <listurl>/senate/?id=2009-11-24.13.1&amp;amp;s=minchin+section%3Alords#g13.17</listurl>
+            <speaker>
+                <member_id>100074</member_id>
+                <title></title>
+                <first_name>Chris</first_name>
+                <last_name>Evans</last_name>
+                <house>2</house>
+                <constituency>WA</constituency>
+                <party>Australian Labor Party</party>
+                <person_id>10204</person_id>
+                <url>/senator/?m=100074</url>
+                <office>
+                    <match>
+                        <dept></dept>
+                        <position>Leader of the Government in the Senate</position>
+                        <pretty>Leader of the Government in the Senate</pretty>
+                    </match>
+                    <match>
+                        <dept></dept>
+                        <position>Minister for Immigration and Citizenship</position>
+                        <pretty>Minister for Immigration and Citizenship</pretty>
+                    </match>
+                </office>
+            </speaker>
+            <parent>
+                <body>Questions without Notice: Asylum Seekers</body>
+            </parent>
+        </match>
+        <match>
+            <gid>2009-11-24.19.28</gid>
+            <hdate>2009-11-24</hdate>
+            <htype>12</htype>
+            <major>101</major>
+            <section_id>230919</section_id>
+            <subsection_id>231042</subsection_id>
+            <relevance>96</relevance>
+            <speaker_id>100053</speaker_id>
+            <hpos>161</hpos>
+            <body>...with the president of the company, he was re-employed, did not have to pay back his redundancy package and was paid a minimum starting salary of $400,000. Everyone pointed the finger at Senator &lt;span class=&quot;hi&quot;&gt;Minchin&lt;/span&gt;. What did Senator &lt;span class=&quot;hi&quot;&gt;Minchin&lt;/span&gt; have to say? A spokesman for Senator &lt;span class=&quot;hi&quot;&gt;Minchin&lt;/span&gt; confirmed the minister had known Mr Short for several years but would not say whether he had any role in him being...</body>
+            <listurl>/senate/?id=2009-11-24.19.1&amp;amp;s=minchin+section%3Alords#g19.28</listurl>
+            <speaker>
+                <member_id>100053</member_id>
+                <title></title>
+                <first_name>Stephen</first_name>
+                <last_name>Conroy</last_name>
+                <house>2</house>
+                <constituency>Victoria</constituency>
+                <party>Australian Labor Party</party>
+                <person_id>10142</person_id>
+                <url>/senator/?m=100053</url>
+                <office>
+                    <match>
+                        <dept></dept>
+                        <position>Deputy Leader of the Government in the Senate</position>
+                        <pretty>Deputy Leader of the Government in the Senate</pretty>
+                    </match>
+                    <match>
+                        <dept></dept>
+                        <position>Minister for Broadband, Communications and the Digital Economy</position>
+                        <pretty>Minister for Broadband, Communications and the Digital Economy</pretty>
+                    </match>
+                </office>
+            </speaker>
+            <parent>
+                <body>Questions without Notice: Broadband</body>
+            </parent>
+        </match>
+        <match>
+            <gid>2009-11-23.62.2</gid>
+            <hdate>2009-11-23</hdate>
+            <htype>12</htype>
+            <major>101</major>
+            <section_id>230396</section_id>
+            <subsection_id>230413</subsection_id>
+            <relevance>68</relevance>
+            <speaker_id>100057</speaker_id>
+            <hpos>302</hpos>
+            <body>At the request of Senator &lt;span class=&quot;hi&quot;&gt;Minchin&lt;/span&gt;, I move: That the Health Insurance Amendment (Compliance) Bill 2009 be moved on immediately and have precedence over all other government business today until determined. The reason we want to bring this bill on now&amp;#8212;</body>
+            <listurl>/senate/?id=2009-11-23.62.1&amp;amp;s=minchin+section%3Alords#g62.2</listurl>
+            <speaker>
+                <member_id>100057</member_id>
+                <title></title>
+                <first_name>Mathias</first_name>
+                <last_name>Cormann</last_name>
+                <house>2</house>
+                <constituency>WA</constituency>
+                <party>Liberal Party</party>
+                <person_id>10148</person_id>
+                <url>/senator/?m=100057</url>
+                <office>
+                    <match>
+                        <dept></dept>
+                        <position>Shadow Parliamentary Secretary for Health Administration</position>
+                        <pretty>Shadow Parliamentary Secretary for Health Administration</pretty>
+                    </match>
+                </office>
+            </speaker>
+            <parent>
+                <body>Business: Rearrangement</body>
+            </parent>
+        </match>
+        <match>
+            <gid>2009-11-23.57.3</gid>
+            <hdate>2009-11-23</hdate>
+            <htype>12</htype>
+            <major>101</major>
+            <section_id>230396</section_id>
+            <subsection_id>230397</subsection_id>
+            <relevance>58</relevance>
+            <speaker_id>100057</speaker_id>
+            <hpos>286</hpos>
+            <body>by leave&amp;#8212;Pursuant to contingent notice and at the request of the Leader of the Opposition in the Senate, Senator &lt;span class=&quot;hi&quot;&gt;Minchin&lt;/span&gt;, I move: That so much of the standing orders be suspended as would prevent Senator &lt;span class=&quot;hi&quot;&gt;Minchin&lt;/span&gt; moving a motion relating to the conduct of the business of the Senate, namely a motion to provide that the Health Insurance Amendment (Compliance) Bill 2009 be called on...</body>
+            <listurl>/senate/?id=2009-11-23.57.2&amp;amp;s=minchin+section%3Alords#g57.3</listurl>
+            <speaker>
+                <member_id>100057</member_id>
+                <title></title>
+                <first_name>Mathias</first_name>
+                <last_name>Cormann</last_name>
+                <house>2</house>
+                <constituency>WA</constituency>
+                <party>Liberal Party</party>
+                <person_id>10148</person_id>
+                <url>/senator/?m=100057</url>
+                <office>
+                    <match>
+                        <dept></dept>
+                        <position>Shadow Parliamentary Secretary for Health Administration</position>
+                        <pretty>Shadow Parliamentary Secretary for Health Administration</pretty>
+                    </match>
+                </office>
+            </speaker>
+            <parent>
+                <body>Business: Consideration of Legislation</body>
+            </parent>
+        </match>
+        <match>
+            <gid>2009-11-23.18.10</gid>
+            <hdate>2009-11-23</hdate>
+            <htype>12</htype>
+            <major>101</major>
+            <section_id>230159</section_id>
+            <subsection_id>230268</subsection_id>
+            <relevance>68</relevance>
+            <speaker_id>100241</speaker_id>
+            <hpos>163</hpos>
+            <body>Through you, Mr President, what is clear to every senator, and to any Australian who is interested in what the Senate is doing, is that Senator Joyce, Senator Bernardi, Senator &lt;span class=&quot;hi&quot;&gt;Minchin&lt;/span&gt; and many others on that side are not interested in the facts. It does not matter how many facts are put before them, they have a clear, rigid, ideological view&amp;#8212;</body>
+            <listurl>/senate/?id=2009-11-23.18.1&amp;amp;s=minchin+section%3Alords#g18.10</listurl>
+            <speaker>
+                <member_id>100241</member_id>
+                <title></title>
+                <first_name>Penny</first_name>
+                <last_name>Wong</last_name>
+                <house>2</house>
+                <constituency>SA</constituency>
+                <party>Australian Labor Party</party>
+                <person_id>10678</person_id>
+                <url>/senator/?m=100241</url>
+                <office>
+                    <match>
+                        <dept></dept>
+                        <position>Minister for Climate Change and Water</position>
+                        <pretty>Minister for Climate Change and Water</pretty>
+                    </match>
+                </office>
+            </speaker>
+            <parent>
+                <body>Questions without Notice: Climate Change</body>
+            </parent>
+        </match>
+        <match>
+            <gid>2009-11-23.5.1</gid>
+            <hdate>2009-11-23</hdate>
+            <htype>12</htype>
+            <major>101</major>
+            <section_id>230116</section_id>
+            <subsection_id>230117</subsection_id>
+            <relevance>48</relevance>
+            <speaker_id>100175</speaker_id>
+            <hpos>7</hpos>
+            <body>...is about, purely, a suite of legislation currently before the chamber that we in opposition do not support. The other speech I particularly want to highlight as well is the speech Senator Nick &lt;span class=&quot;hi&quot;&gt;Minchin&lt;/span&gt; made in this chamber, an outstanding speech in my view. Again, the media have misreported the context of the speech. Senator &lt;span class=&quot;hi&quot;&gt;Minchin&lt;/span&gt;&amp;#8217;s speech expressed some very good and strong...</body>
+            <listurl>/senate/?id=2009-11-23.4.2&amp;amp;s=minchin+section%3Alords#g5.1</listurl>
+            <speaker>
+                <member_id>100175</member_id>
+                <title></title>
+                <first_name>Stephen</first_name>
+                <last_name>Parry</last_name>
+                <house>2</house>
+                <constituency>Tasmania</constituency>
+                <party>Liberal Party</party>
+                <person_id>10507</person_id>
+                <url>/senator/?m=100175</url>
+            </speaker>
+            <parent>
+                <body>Carbon Pollution Reduction Scheme Bill 2009 [No. 2]; Carbon Pollution Reduction Scheme (Consequential Amendments) Bill 2009 [No. 2]; Australian Climate Change Regulatory Authority Bill 2009 [No. 2]; Carbon Pollution Reduction Scheme (Charges &amp;#8212; Customs) Bill 2009 [No. 2]; Carbon Pollution Reduction Scheme (Charges &amp;#8212; Excise) Bill 2009 [No. 2]; Carbon Pollution Reduction Scheme (Charges &amp;#8212; General) Bill 2009 [No. 2]; Carbon Pollution Reduction Scheme (CPRS Fuel Credits) Bill 2009 [No. 2]; Carbon Pollution Reduction Scheme (CPRS Fuel Credits) (Consequential Amendments) Bill 2009 [No. 2]; Excise Tariff Amendment (Carbon Pollution Reduction Scheme) Bill 2009 [No. 2]; Customs Tariff Amendment (Carbon Pollution Reduction Scheme) Bill 2009 [No. 2]; Carbon Pollution Reduction Scheme Amendment (Household Assistance) Bill 2009 [No. 2]: </body>
+            </parent>
+        </match>
+        <match>
+            <gid>2009-11-19.89.1</gid>
+            <hdate>2009-11-19</hdate>
+            <htype>12</htype>
+            <major>101</major>
+            <section_id>229505</section_id>
+            <subsection_id>229506</subsection_id>
+            <relevance>74</relevance>
+            <speaker_id>100254</speaker_id>
+            <hpos>317</hpos>
+            <body>...of the opposition over how they deal with the great political issues confronting this parliament and this nation at this time. This morning we heard yet another extraordinary speech from Senator &lt;span class=&quot;hi&quot;&gt;Minchin&lt;/span&gt;, the Leader of the Liberal Party in this place, who once again flatly and openly contradicted his leader Malcolm Turnbull and contradicted the purported policy of his own party on the issue...</body>
+            <listurl>/senate/?id=2009-11-19.88.2&amp;amp;s=minchin+section%3Alords#g89.1</listurl>
+            <speaker>
+                <member_id>100254</member_id>
+                <title></title>
+                <first_name>David</first_name>
+                <last_name>Feeney</last_name>
+                <house>2</house>
+                <constituency>Victoria</constituency>
+                <party>Australian Labor Party</party>
+                <person_id>10709</person_id>
+                <url>/senator/?m=100254</url>
+            </speaker>
+            <parent>
+                <body>Asylum Seekers: </body>
+            </parent>
+        </match>
+        <match>
+            <gid>2009-11-19.73.1</gid>
+            <hdate>2009-11-19</hdate>
+            <htype>12</htype>
+            <major>101</major>
+            <section_id>229465</section_id>
+            <subsection_id>229466</subsection_id>
+            <relevance>43</relevance>
+            <speaker_id>100114</speaker_id>
+            <hpos>284</hpos>
+            <body>Thank you very much, Mr President. I rise to concur with the remarks given by Senator Evans, you, Senator &lt;span class=&quot;hi&quot;&gt;Minchin&lt;/span&gt; and Senator Brown. If everybody conducted the Senate the way Sir Richard Baker from South Australia, who was a free trader and fought a duel with Kingston, did, the role of the Clerk of the Senate would be far easier. Unfortunately, as it has devolved more into a party political...</body>
+            <listurl>/senate/?id=2009-11-19.69.2&amp;amp;s=minchin+section%3Alords#g73.1</listurl>
+            <speaker>
+                <member_id>100114</member_id>
+                <title></title>
+                <first_name>Barnaby</first_name>
+                <last_name>Joyce</last_name>
+                <house>2</house>
+                <constituency>Queensland</constituency>
+                <party>National Party</party>
+                <person_id>10350</person_id>
+                <url>/senator/?m=100114</url>
+            </speaker>
+            <parent>
+                <body>Valedictory: </body>
+            </parent>
+        </match>
+        <match>
+            <gid>2009-11-19.57.6</gid>
+            <hdate>2009-11-19</hdate>
+            <htype>12</htype>
+            <major>101</major>
+            <section_id>229306</section_id>
+            <subsection_id>229354</subsection_id>
+            <relevance>61</relevance>
+            <speaker_id>100241</speaker_id>
+            <hpos>168</hpos>
+            <body>...the first one first. Yes, I am aware of the heatwave in Adelaide. It was something my mother was complaining about when I last spoke to her&amp;#8212;how hot and unseasonable it had been. I note Senator &lt;span class=&quot;hi&quot;&gt;Minchin&lt;/span&gt; interjected on your question, suggesting that this was not a record and that these temperatures had been observed in 1961. I do not know whether that is true or not. I certainly know it...</body>
+            <listurl>/senate/?id=2009-11-19.57.1&amp;amp;s=minchin+section%3Alords#g57.6</listurl>
+            <speaker>
+                <member_id>100241</member_id>
+                <title></title>
+                <first_name>Penny</first_name>
+                <last_name>Wong</last_name>
+                <house>2</house>
+                <constituency>SA</constituency>
+                <party>Australian Labor Party</party>
+                <person_id>10678</person_id>
+                <url>/senator/?m=100241</url>
+                <office>
+                    <match>
+                        <dept></dept>
+                        <position>Minister for Climate Change and Water</position>
+                        <pretty>Minister for Climate Change and Water</pretty>
+                    </match>
+                </office>
+            </speaker>
+            <parent>
+                <body>Questions without Notice: Climate Change</body>
+            </parent>
+        </match>
+        <match>
+            <gid>2009-11-19.42.1</gid>
+            <hdate>2009-11-19</hdate>
+            <htype>12</htype>
+            <major>101</major>
+            <section_id>229262</section_id>
+            <subsection_id>229263</subsection_id>
+            <relevance>28</relevance>
+            <speaker_id>100164</speaker_id>
+            <hpos>86</hpos>
+            <body>...ask the question is simply wrong. But that is not what we are discussing today. Today we are discussing the CPRS bills that are before us. I commend the Leader of the Opposition in the Senate Nick &lt;span class=&quot;hi&quot;&gt;Minchin&lt;/span&gt; for pointing out earlier what a misnomer &amp;#8216;CPRS legislation&amp;#8217; is. I also commend him on his speech to the chamber. The interesting thing is that when we go out there into the...</body>
+            <listurl>/senate/?id=2009-11-19.31.2&amp;amp;s=minchin+section%3Alords#g42.1</listurl>
+            <speaker>
+                <member_id>100164</member_id>
+                <title></title>
+                <first_name>Fiona</first_name>
+                <last_name>Nash</last_name>
+                <house>2</house>
+                <constituency>NSW</constituency>
+                <party>National Party</party>
+                <person_id>10478</person_id>
+                <url>/senator/?m=100164</url>
+            </speaker>
+            <parent>
+                <body>Carbon Pollution Reduction Scheme Bill 2009 [No. 2]; Carbon Pollution Reduction Scheme (Consequential Amendments) Bill 2009 [No. 2]; Australian Climate Change Regulatory Authority Bill 2009 [No. 2]; Carbon Pollution Reduction Scheme (Charges &amp;#8212; Customs) Bill 2009 [No. 2]; Carbon Pollution Reduction Scheme (Charges &amp;#8212; Excise) Bill 2009 [No. 2]; Carbon Pollution Reduction Scheme (Charges &amp;#8212; General) Bill 2009 [No. 2]; Carbon Pollution Reduction Scheme (CPRS Fuel Credits) Bill 2009 [No. 2]; Carbon Pollution Reduction Scheme (CPRS Fuel Credits) (Consequential Amendments) Bill 2009 [No. 2]; Excise Tariff Amendment (Carbon Pollution Reduction Scheme) Bill 2009 [No. 2]; Customs Tariff Amendment (Carbon Pollution Reduction Scheme) Bill 2009 [No. 2]; Carbon Pollution Reduction Scheme Amendment (Household Assistance) Bill 2009 [No. 2]: </body>
+            </parent>
+        </match>
+        <match>
+            <gid>2009-11-17.51.3</gid>
+            <hdate>2009-11-17</hdate>
+            <htype>12</htype>
+            <major>101</major>
+            <section_id>227902</section_id>
+            <subsection_id>227903</subsection_id>
+            <relevance>67</relevance>
+            <speaker_id>100175</speaker_id>
+            <hpos>227</hpos>
+            <body>At the request of Senator &lt;span class=&quot;hi&quot;&gt;Minchin&lt;/span&gt;, I move:That there be laid on the table by the Minister for Broadband, Communications and the Digital Economy, no later than 10 am on Wednesday, 18 November 2009, a document outlining:(a)the selection process undertaken to appoint Mr Mike Kaiser as the Principal &amp;#8211; Government Relations and External Affairs for NBN Co., as announced on 13&amp;#160;November...</body>
+            <listurl>/senate/?id=2009-11-17.51.2&amp;amp;s=minchin+section%3Alords#g51.3</listurl>
+            <speaker>
+                <member_id>100175</member_id>
+                <title></title>
+                <first_name>Stephen</first_name>
+                <last_name>Parry</last_name>
+                <house>2</house>
+                <constituency>Tasmania</constituency>
+                <party>Liberal Party</party>
+                <person_id>10507</person_id>
+                <url>/senator/?m=100175</url>
+            </speaker>
+            <parent>
+                <body>MR Mike Kaiser: Order</body>
+            </parent>
+        </match>
+        <match>
+            <gid>2009-11-17.50.1</gid>
+            <hdate>2009-11-17</hdate>
+            <htype>12</htype>
+            <major>101</major>
+            <section_id>227897</section_id>
+            <subsection_id>227898</subsection_id>
+            <relevance>68</relevance>
+            <speaker_id>100169</speaker_id>
+            <hpos>223</hpos>
+            <body>by leave&amp;#8212;The government opposed general business notices of motion Nos 611 and 612, moved by Senator Cormann, and No. 613, moved on behalf of Senator &lt;span class=&quot;hi&quot;&gt;Minchin&lt;/span&gt;. We recognise that the Senate voted in majority for the motions and we did not call a division on any of the motions for that reason.</body>
+            <listurl>/senate/?id=2009-11-17.49.2&amp;amp;s=minchin+section%3Alords#g50.1</listurl>
+            <speaker>
+                <member_id>100169</member_id>
+                <title></title>
+                <first_name>Kerry</first_name>
+                <last_name>O'Brien</last_name>
+                <house>2</house>
+                <constituency>Tasmania</constituency>
+                <party>Australian Labor Party</party>
+                <person_id>10492</person_id>
+                <url>/senator/?m=100169</url>
+            </speaker>
+            <parent>
+                <body>Health Insurance Amendment (Revival of Table Items) Legislation: Order</body>
+            </parent>
+        </match>
+    </rows>
+</result>

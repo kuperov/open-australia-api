@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<result>
+    <info>
+        <s>utegate section:debates</s>
+        <results_per_page>20</results_per_page>
+        <page>1</page>
+        <total_results>5</total_results>
+        <first_result>1</first_result>
+    </info>
+    <searchdescription>containing the word 'utegate' in House debates</searchdescription>
+    <rows>
+        <match>
+            <gid>2009-11-17.13.6</gid>
+            <hdate>2009-11-17</hdate>
+            <htype>12</htype>
+            <major>1</major>
+            <section_id>227451</section_id>
+            <subsection_id>227508</subsection_id>
+            <relevance>95</relevance>
+            <speaker_id>450</speaker_id>
+            <hpos>63</hpos>
+            <body>...consistent with what we have had on earlier occasions, an attempt by the Leader of the Opposition to embroil my staff in this matter. I seem to remember what he did during the forged email affair on &lt;span class=&quot;hi&quot;&gt;Utegate&lt;/span&gt;, which was to seek to embroil the economic adviser in my office, Dr Charlton. Once again, we are going down the same road.</body>
+            <listurl>/debates/?id=2009-11-17.13.1&amp;amp;s=utegate+section%3Adebates#g13.6</listurl>
+            <speaker>
+                <member_id>450</member_id>
+                <title></title>
+                <first_name>Kevin</first_name>
+                <last_name>Rudd</last_name>
+                <house>1</house>
+                <constituency>Griffith</constituency>
+                <party>Australian Labor Party</party>
+                <person_id>10552</person_id>
+                <url>/mp/?m=450</url>
+                <office>
+                    <match>
+                        <dept></dept>
+                        <position>Prime Minister</position>
+                        <pretty>Prime Minister</pretty>
+                    </match>
+                </office>
+            </speaker>
+            <parent>
+                <body>Questions without Notice: Asylum Seekers</body>
+            </parent>
+        </match>
+        <match>
+            <gid>2009-11-17.7.3</gid>
+            <hdate>2009-11-17</hdate>
+            <htype>12</htype>
+            <major>1</major>
+            <section_id>227451</section_id>
+            <subsection_id>227486</subsection_id>
+            <relevance>83</relevance>
+            <speaker_id>450</speaker_id>
+            <hpos>38</hpos>
+            <body>...embassy. He said that quite explicitly. He said that I had misled the parliament on that matter. This is a grave accusation. He said it once before, this year, and that was in relation to the &lt;span class=&quot;hi&quot;&gt;Utegate&lt;/span&gt; affair, which was based on a forged email. My question to the Leader of the Opposition when he stands to his feet next time is: will he provide to us the evidence upon which he has based this...</body>
+            <listurl>/debates/?id=2009-11-17.7.1&amp;amp;s=utegate+section%3Adebates#g7.3</listurl>
+            <speaker>
+                <member_id>450</member_id>
+                <title></title>
+                <first_name>Kevin</first_name>
+                <last_name>Rudd</last_name>
+                <house>1</house>
+                <constituency>Griffith</constituency>
+                <party>Australian Labor Party</party>
+                <person_id>10552</person_id>
+                <url>/mp/?m=450</url>
+                <office>
+                    <match>
+                        <dept></dept>
+                        <position>Prime Minister</position>
+                        <pretty>Prime Minister</pretty>
+                    </match>
+                </office>
+            </speaker>
+            <parent>
+                <body>Questions without Notice: Asylum Seekers</body>
+            </parent>
+        </match>
+        <match>
+            <gid>2009-11-17.5.5</gid>
+            <hdate>2009-11-17</hdate>
+            <htype>12</htype>
+            <major>1</major>
+            <section_id>227451</section_id>
+            <subsection_id>227460</subsection_id>
+            <relevance>100</relevance>
+            <speaker_id>450</speaker_id>
+            <hpos>14</hpos>
+            <body>...vu. When was the last time we had this Leader of the Opposition stand up and say that I had misled the House on such a matter? What we had last time was, of course, the forged email affair around &lt;span class=&quot;hi&quot;&gt;Utegate&lt;/span&gt; when the Leader of the Opposition stood up and made an accusation publicly that I had misled the parliament on the basis of no evidence at all, which perhaps explains why he was...</body>
+            <listurl>/debates/?id=2009-11-17.5.1&amp;amp;s=utegate+section%3Adebates#g5.5</listurl>
+            <speaker>
+                <member_id>450</member_id>
+                <title></title>
+                <first_name>Kevin</first_name>
+                <last_name>Rudd</last_name>
+                <house>1</house>
+                <constituency>Griffith</constituency>
+                <party>Australian Labor Party</party>
+                <person_id>10552</person_id>
+                <url>/mp/?m=450</url>
+                <office>
+                    <match>
+                        <dept></dept>
+                        <position>Prime Minister</position>
+                        <pretty>Prime Minister</pretty>
+                    </match>
+                </office>
+            </speaker>
+            <parent>
+                <body>Questions without Notice: Asylum Seekers</body>
+            </parent>
+        </match>
+        <match>
+            <gid>2009-10-22.83.14</gid>
+            <hdate>2009-10-22</hdate>
+            <htype>12</htype>
+            <major>1</major>
+            <section_id>224059</section_id>
+            <subsection_id>224060</subsection_id>
+            <relevance>63</relevance>
+            <speaker_id>6</speaker_id>
+            <hpos>278</hpos>
+            <body>...time to move more points of order than were moved during the entire term last time. Those opposite interrupt one-third of questions. Then they stand up and move suspensions and censures. Remember &lt;span class=&quot;hi&quot;&gt;Utegate&lt;/span&gt; week? They did not move anything on the Monday and they waited until the Wednesday, when we knew it was a fake email, and then moved a censure motion. That was a highlight of the tactical...</body>
+            <listurl>/debates/?id=2009-10-22.81.2&amp;amp;s=utegate+section%3Adebates#g83.14</listurl>
+            <speaker>
+                <member_id>6</member_id>
+                <title></title>
+                <first_name>Anthony</first_name>
+                <last_name>Albanese</last_name>
+                <house>1</house>
+                <constituency>Grayndler</constituency>
+                <party>Australian Labor Party</party>
+                <person_id>10007</person_id>
+                <url>/mp/?m=6</url>
+                <office>
+                    <match>
+                        <dept></dept>
+                        <position>Leader of the House</position>
+                        <pretty>Leader of the House</pretty>
+                    </match>
+                    <match>
+                        <dept></dept>
+                        <position>Minister for Infrastructure, Transport, Regional Development and Local Government</position>
+                        <pretty>Minister for Infrastructure, Transport, Regional Development and Local Government</pretty>
+                    </match>
+                </office>
+            </speaker>
+            <parent>
+                <body>Matters of Public Importance: Parliamentary Reform</body>
+            </parent>
+        </match>
+        <match>
+            <gid>2009-06-25.99.2</gid>
+            <hdate>2009-06-25</hdate>
+            <htype>12</htype>
+            <major>1</major>
+            <section_id>209699</section_id>
+            <subsection_id>209718</subsection_id>
+            <relevance>64</relevance>
+            <speaker_id>418</speaker_id>
+            <hpos>343</hpos>
+            <body>...about these things. They will talk about anything other than utes, because the reality is that, apart from the good people of Deniliquin, and then for only one weekend a year, no-one cares about the &lt;span class=&quot;hi&quot;&gt;Utegate&lt;/span&gt; affair. Nobody really cares about utes the way those opposite do. We could have dealt with this a long way back, at the very start of this week in parliament, if the Leader of the...</body>
+            <listurl>/debates/?id=2009-06-25.99.1&amp;amp;s=utegate+section%3Adebates#g99.2</listurl>
+            <speaker>
+                <member_id>418</member_id>
+                <title></title>
+                <first_name>Graham</first_name>
+                <last_name>Perrett</last_name>
+                <house>1</house>
+                <constituency>Moreton</constituency>
+                <party>Australian Labor Party</party>
+                <person_id>10512</person_id>
+                <url>/mp/?m=418</url>
+            </speaker>
+            <parent>
+                <body>Adjournment: Economy</body>
+            </parent>
+        </match>
+    </rows>
+</result>

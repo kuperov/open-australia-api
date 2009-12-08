@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<result>
+    <match>
+        <member_id>1</member_id>
+        <house>1</house>
+        <first_name>Tony</first_name>
+        <last_name>Abbott</last_name>
+        <constituency>Warringah</constituency>
+        <party>Liberal Party</party>
+        <entered_house>1994-03-26</entered_house>
+        <left_house>9999-12-31</left_house>
+        <entered_reason>by_election</entered_reason>
+        <left_reason>still_in_office</left_reason>
+        <person_id>10001</person_id>
+        <title></title>
+        <lastupdate>2008-07-20 22:54:54</lastupdate>
+        <full_name>Tony Abbott</full_name>
+        <image>/images/mpsL/10001.jpg</image>
+        <office>
+            <match>
+                <moffice_id>20181</moffice_id>
+                <dept></dept>
+                <position>Shadow Minister for Families, Housing, Community Services and Indigenous Affairs</position>
+                <from_date>2008-09-22</from_date>
+                <to_date>9999-12-31</to_date>
+                <person>10001</person>
+                <source></source>
+            </match>
+        </office>
+    </match>
+</result>

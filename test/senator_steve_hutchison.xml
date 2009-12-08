@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<result>
+    <match>
+        <member_id>100109</member_id>
+        <house>2</house>
+        <first_name>Steve</first_name>
+        <last_name>Hutchins</last_name>
+        <constituency>NSW</constituency>
+        <party>Australian Labor Party</party>
+        <entered_house>1998-10-14</entered_house>
+        <left_house>9999-12-31</left_house>
+        <entered_reason></entered_reason>
+        <left_reason>still_in_office</left_reason>
+        <person_id>10323</person_id>
+        <title></title>
+        <lastupdate>2009-06-17 06:58:54</lastupdate>
+        <full_name>Steve Hutchins</full_name>
+    </match>
+</result>

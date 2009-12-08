@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<result>
+    <match>
+        <member_id>100055</member_id>
+        <person_id>10144</person_id>
+        <name>Helen Coonan</name>
+        <party>Liberal Party</party>
+    </match>
+    <match>
+        <member_id>100077</member_id>
+        <person_id>10214</person_id>
+        <name>John Faulkner</name>
+        <party>Australian Labor Party</party>
+    </match>
+    <match>
+        <member_id>100082</member_id>
+        <person_id>10222</person_id>
+        <name>Concetta Fierravanti-Wells</name>
+        <party>Liberal Party</party>
+    </match>
+    <match>
+        <member_id>100086</member_id>
+        <person_id>10235</person_id>
+        <name>Michael Forshaw</name>
+        <party>Australian Labor Party</party>
+    </match>
+    <match>
+        <member_id>100101</member_id>
+        <person_id>10296</person_id>
+        <name>Bill Heffernan</name>
+        <party>Liberal Party</party>
+    </match>
+    <match>
+        <member_id>100109</member_id>
+        <person_id>10323</person_id>
+        <name>Steve Hutchins</name>
+        <party>Australian Labor Party</party>
+    </match>
+    <match>
+        <member_id>100164</member_id>
+        <person_id>10478</person_id>
+        <name>Fiona Nash</name>
+        <party>National Party</party>
+    </match>
+    <match>
+        <member_id>100177</member_id>
+        <person_id>10509</person_id>
+        <name>Marise Payne</name>
+        <party>Liberal Party</party>
+    </match>
+    <match>
+        <member_id>100212</member_id>
+        <person_id>10609</person_id>
+        <name>Ursula Stephens</name>
+        <party>Australian Labor Party</party>
+    </match>
+    <match>
+        <member_id>100249</member_id>
+        <person_id>10704</person_id>
+        <name>Mark Arbib</name>
+        <party>Australian Labor Party</party>
+    </match>
+    <match>
+        <member_id>100251</member_id>
+        <person_id>10706</person_id>
+        <name>Doug Cameron</name>
+        <party>Australian Labor Party</party>
+    </match>
+    <match>
+        <member_id>100261</member_id>
+        <person_id>10716</person_id>
+        <name>John Williams</name>
+        <party>National Party</party>
+    </match>
+</result>

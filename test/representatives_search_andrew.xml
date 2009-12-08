@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<result>
+    <match>
+        <member_id>13</member_id>
+        <person_id>10014</person_id>
+        <name>Kevin Andrews</name>
+        <party>Liberal Party</party>
+        <constituency>Menzies</constituency>
+    </match>
+    <match>
+        <member_id>324</member_id>
+        <person_id>10377</person_id>
+        <name>Andrew Laming</name>
+        <party>Liberal Party</party>
+        <constituency>Bowman</constituency>
+    </match>
+    <match>
+        <member_id>442</member_id>
+        <person_id>10544</person_id>
+        <name>Andrew Robb</name>
+        <party>Liberal Party</party>
+        <constituency>Goldstein</constituency>
+    </match>
+    <match>
+        <member_id>498</member_id>
+        <person_id>10601</person_id>
+        <name>Andrew Southcott</name>
+        <party>Liberal Party</party>
+        <constituency>Boothby</constituency>
+    </match>
+</result>
