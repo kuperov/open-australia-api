@@ -18,7 +18,7 @@ module OpenAustralia
   end
   
   # search results from a comments search
-  class CommentsSearch
+  class CommentsSearch # :nodoc:
     include XML::Mapping
 
     array_node :results, 'comments', 'match', :class => Comments,

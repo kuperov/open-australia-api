@@ -16,7 +16,6 @@ script/console
 script/destroy
 script/generate
 test/test_helper.rb
-test/test_open-australia.rb
 test/test_api.rb
 test/test_parse.rb
 test/comments.xml

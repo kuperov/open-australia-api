@@ -14,18 +14,18 @@ This is a ruby wrapper for the Open Australia website
 
 == SYNOPSIS:
 
-# spit out excerpts of what's been said
-# about the emissions trading scheme
+    # spit out excerpts of what's been said
+    # about the emissions trading scheme
 
-require 'rubygems'
-require 'open-australia'
+    require 'rubygems'
+    require 'open-australia'
 
-api = OpenAustralia::Api.new 'YOUR-API-KEY-HERE'
+    api = OpenAustralia::Api.new 'YOUR-API-KEY-HERE'
 
-search = api.get_hansard :search => 'emissions trading'
-search.results.each do |result|
-  puts result.body
-end
+    search = api.get_hansard :search => 'emissions trading'
+    search.results.each do |result|
+      puts result.body
+    end
 
 == REQUIREMENTS:
 

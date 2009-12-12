@@ -6,6 +6,9 @@ require 'open-australia/search_info'
 
 module OpenAustralia
 
+  # a record returned by a debate search
+  #
+  # represents a debate in parliament
   class DebateSearchResult
     include XML::Mapping
 
@@ -22,11 +25,19 @@ module OpenAustralia
     # FIXME: incomplete 
   end
 
+  # wrapper for debate search results 
   class DebateSearch
     include XML::Mapping
 
+    # general information about the
+    # search results
     object_node :info, 'info', :class => SearchInfo, :default_value => nil
+
+    # a human-readable description
+    # of the search
     text_node :search_description, 'searchdescription', :default_value => nil
+
+    # search result records
     array_node :results, 'rows', 'match', :class => DebateSearchResult, :default_value=>[]
   end
 end
